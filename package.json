@@ -1,7 +1,7 @@
 {
   "name": "resize-observer-polyfill",
   "author": "Denis Rul <que.etc@bgmail.com>",
-  "version": "1.0.0",
+  "version": "1.5.1",
   "description": "A polyfill for IntersectionObserver API",
   "main": "index.js",
   "engines": {
@@ -13,11 +13,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/que-etc/resize-observer-polyfill.git"
+    "url": "git+https://github.com/maxtsh/resize-observer-polyfill.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/que-etc/resize-observer-polyfill/issues"
+    "url": "https://github.com/maxtsh/resize-observer-polyfill"
   },
   "files": [
     "src/",
@@ -34,7 +34,7 @@
     "browser",
     "polyfill"
   ],
-  "homepage": "https://github.com/que-etc/resize-observer-polyfill",
+  "homepage": "https://github.com/maxtsh/resize-observer-polyfill",
   "devDependencies": {
     "babel-core": "^6.9.1",
     "babel-loader": "^6.2.4",
